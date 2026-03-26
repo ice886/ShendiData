@@ -1,0 +1,2 @@
+{"messages":[{"role":"user","content":[{"text":"这张图是什么内容"},{"image":"image_1.jpeg"}]},{"role":"assistant","content":[{"text":"是一个活了几千年的老精灵芙莉莲"}]}]}
+{"messages":[{"role":"user","content":[{"text":"这几张图片是什么人物"},{"image":"image_1.jpeg"},{"image":"image_2.jpg"}]},{"role":"assistant","content":[{"text":"是一个活了几千年的老精灵芙莉莲"}]}]}
